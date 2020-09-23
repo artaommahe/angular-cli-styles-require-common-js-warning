@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import '!style-loader!css-loader!./some-global-styles.css';
 
 @Component({
   selector: 'app-root',
